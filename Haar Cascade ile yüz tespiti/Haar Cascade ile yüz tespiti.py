@@ -1,4 +1,4 @@
-#Bu kodu aktif kullanabilmek için aşağıdaki GitHub üzerinden alınan ve urlsi verilen xml dosyasını bilgiayarınıza indirmeniz gereklidir.
+#Bu kodu aktif kullanabilmek için aşağıdaki GitHub üzerinden alınan ve urlsi verilen dosyası bilgiayarınıza indirmeniz gereklidir.
 import cv2
 import numpy as np
 import urllib.request
